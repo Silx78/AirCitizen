@@ -2,4 +2,5 @@
   {
     "device" : "{device}",
     "payload": "{data}"
+  }
 ]
