@@ -1,1 +1,5 @@
-
+[
+  {
+    "device" : "{device}",
+    "payload": "{data}"
+]
