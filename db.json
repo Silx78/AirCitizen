@@ -1,6 +1,8 @@
-[
-  {
-    "device" : "{device}",
-    "payload": "{data}"
-  }
-]
+{
+  "posts": [
+    {
+      "device" : "{device}",
+      "payload": "{data}"
+    }
+  ]
+}
